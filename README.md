@@ -1,11 +1,9 @@
-### Hi there 👋, my name is Harshbir 
-#### I am a Full-Stack Web Developer
-![I am a Full-Stack Web Developer](https://i.ibb.co/GMTdNvk/WEB-DEVELOPER.png)
 
+![I am a Full-Stack Web Developer](https://i.ibb.co/NWHMPfw/Git-Banner.png)
 
-Skills: React | JavaScript | Node JS | Express JS |  PostgreSQL
-
-- 🔭 I’m currently working on building an e-commerce website 
+- 🔭 I’m currently working on building an e-commerce website
+- 👨🏻‍🎓 Recently graduated with a Diploma in [Full-Stack Web Development](https://www.lighthouselabs.ca/en/web-development-flex-program)
+- 👨🏼‍💻 I'm also currently taking courses from [ZTM](https://zerotomastery.io/courses/) to improve my skills in React and Advance JavaScript concepts
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him 
 
