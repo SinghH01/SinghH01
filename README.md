@@ -9,4 +9,4 @@ Skills: React | JavaScript | Node JS | Express JS |  PostgreSQL
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=singhh01.singhh01&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=singhh01.singhh01&left_color=blue&right_color=grey)
