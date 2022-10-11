@@ -11,9 +11,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=singhh01&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=singhh01.singhh01&left_color=blue&right_color=grey)
 <br />
 
   <a href="https://www.linkedin.com/in/singhharshbir/">
-    <img align="left" alt="Harshbir's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Harshbir's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
